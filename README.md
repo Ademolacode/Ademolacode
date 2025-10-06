@@ -13,9 +13,9 @@ These projects represent my core competencies and are fully documented in their 
 
 | Project Title | Core Focus | Key Achievement | Full Documentation |
 | :--- | :--- | :--- | :--- |
-| **Microsoft Cloud SOC Simulation** | **Cloud SIEM/XDR & KQL** | Built and operated an E5 lab using **Sentinel, MDE, and MDO**. Wrote KQL for cross-domain identity and email threat hunting. | **[View Project](Project-1-Microsoft-SOC/README.md)** |
-| **Active Directory 2.0 & SOAR** | **Detection Engineering & Automation** | Integrated **Splunk** with cloud-hosted **AD** and used **Shuffle (SOAR)** to automate account disablement based on analyst approval via Slack. | **[View Project](Project-2-AD-SOAR/README.md)** |
-| **Elastic (ELK) Threat Lab** | **Open-Source SIEM & Endpoint Forensics** | Deployed **ELK Stack** with **Sysmon/Winlogbeat** to analyze low-level endpoint telemetry, detect C2 activity, and build custom Kibana dashboards. | **[View Project](Project-3-ELK-Stack/README.md)** |
+| **Microsoft Cloud SOC Simulation** | **Cloud SIEM/XDR & KQL** | Built and operated an E5 lab using **Sentinel, MDE, and MDO**. Wrote KQL for cross-domain identity and email threat hunting. | **[View Project](https://github.com/Ademolacode/Microsoft-Cloud-SOC-Simulation)** |
+| **Active Directory 2.0 & SOAR** | **Detection Engineering & Automation** | Integrated **Splunk** with cloud-hosted **AD** and used **Shuffle (SOAR)** to automate account disablement based on analyst approval via Slack. | **[View Project](https://github.com/Ademolacode/Microsoft-Cloud-SOC-Simulation)** |
+| **Elastic (ELK) Threat Lab** | **Open-Source SIEM & Endpoint Forensics** | Deployed **ELK Stack** with **Sysmon/Winlogbeat** to analyze low-level endpoint telemetry, detect C2 activity, and build custom Kibana dashboards. | **[View Project](https://github.com/Ademolacode/Microsoft-Cloud-SOC-Simulation)** |
 
 ---
 
