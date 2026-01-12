@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-I am a **Security Operations Analyst** focusing on **Detection Engineering, Cloud Security, and SOC Automation**.
+I am a **Security Operations Analyst** focusing on **SOC Operations, and SOC Automation**.
 My work centers on transforming raw telemetry into actionable security intelligence, improving alert triage, and designing automation that enhances analyst effectiveness without removing human judgment.
 
 This portfolio demonstrates **end-to-end SOC capability**, from detection and investigation to enrichment, automation, and professional DFIR-style documentation.
@@ -19,7 +19,7 @@ These projects demonstrate my ability to handle real-world security incidents fr
 | :--- | :--- | :--- | :--- |
 | **AI-SOC Automation** | **SOC Automation & AI-Assisted Triage** | Designed and implemented an end-to-end SOC workflow integrating Splunk detections, threat intelligence enrichment, AI-assisted triage, DFIR case creation, and real-time analyst notification | **[View Project](https://github.com/Ademolacode/AI-SOC-Automation)** |
 | **Impossible Travel & Unfamiliar Sign-In Investigation** | **Identity Security & Splunk** | Investigated anomalous global sign-ins and malicious Microsoft 365 mailbox forwarding rules, resulting in a confirmed Business Email Compromise investigation | **[View Investigation](https://github.com/Ademolacode/Impossible-Travel-Unfamiliar-Sign-In)** |
-| **Microsoft Cloud SOC Simulation** | **Microsoft Sentinel & XDR** | Built a Microsoft E5 SOC lab using Sentinel and Defender for Endpoint and authored custom KQL queries for cross-domain threat hunting | **[View Project](https://github.com/Ademolacode/Microsoft-Cloud-SOC-Simulation)** |
+| **Microsoft SOC Analyst Portfolio** | **Microsoft Sentinel & XDR** | Built a Microsoft E5 SOC lab using Sentinel and Defender for Endpoint and authored custom KQL queries for cross-domain threat hunting | **[View Project](https://github.com/Ademolacode/Microsoft-SOC-Analyst-Portfolio)** |
 | **Active Directory SOAR Automation** | **Identity Security & SOAR** | Automated Active Directory account response by integrating Splunk detections with Shuffle SOAR and Slack-based analyst workflows | **[View Project](./Investigations/AD-SOAR-Automation/)** |
 
 
